@@ -37,7 +37,7 @@ jobs:
       run: ./gradlew build
 
     - name: Test Reporter
-    - uses: dorny/test-reporter@v1
+      uses: dorny/test-reporter@v1
       with:
         artifact: test-results            # artifact name
         name: JUNIT Tests                 # Name of the check run which will be created
