@@ -42,7 +42,7 @@ jobs:
         artifact: test-results            # artifact name
         name: JUNIT Tests                 # Name of the check run which will be created
         path: 'build/test-results/test/*.xml'                     # Path to test results (inside artifact .zip)
-        reporter: javatest-junit 
+        reporter: java-junit
     # NOTE: The Gradle Wrapper is the default and recommended way to run Gradle (https://docs.gradle.org/current/userguide/gradle_wrapper.html).
     # If your project does not have the Gradle Wrapper configured, you can use the following configuration to run Gradle with a specified version.
     #
