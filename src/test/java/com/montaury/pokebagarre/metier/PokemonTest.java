@@ -73,3 +73,5 @@ class PokemonTest { // Test class for Pokémon.java
         assertThat(estVainqueur).isTrue();
     }
 }
+
+// J'ajoute un commentaire pour tester le push et surtout les actions de GitHub
