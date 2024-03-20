@@ -74,4 +74,4 @@ class PokemonTest { // Test class for Pokémon.java
     }
 }
 
-// J'ajoute un commentaire pour tester le push et surtout les actions de GitHub
+// J'ajoute un commentaire pour tester le push et surtout les actions de GitHub 2
